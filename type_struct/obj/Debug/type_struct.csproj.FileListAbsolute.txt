@@ -1,0 +1,16 @@
+C:\Users\Админ\source\repos\type_struct\type_struct\bin\Debug\type_struct.exe.config
+C:\Users\Админ\source\repos\type_struct\type_struct\bin\Debug\type_struct.exe
+C:\Users\Админ\source\repos\type_struct\type_struct\bin\Debug\type_struct.pdb
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\App.g.cs
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct_MarkupCompile.cache
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct_MarkupCompile.lref
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\MainWindow.baml
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.g.resources
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.Properties.Resources.resources
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.csproj.GenerateResource.cache
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.exe
+C:\Users\Админ\source\repos\type_struct\type_struct\obj\Debug\type_struct.pdb
